@@ -1,0 +1,39 @@
+nav li{
+    list-style:none;;
+    display: inline-block;
+    margin-right: 50px;
+}
+nav li:hover{
+    background-color: blueviolet;
+}
+nav li a{
+    text-align: center;
+    text-decoration:wavy;
+}
+nav{
+    text-align: center;
+
+}
+h1  {
+    text-align: center;
+    color:brown;
+    border: 1px solid;
+
+    box-shadow: 5px 5px 5px;
+}
+main p {
+    text-align:justify;
+    margin: 15px;
+    /* border: 2px solid; */
+    padding: 8px;
+    
+}
+img{
+    box-shadow: 5px 5px 20px;
+}
+figcaption{
+    text-align: center;
+}
+html{
+    background-color:darkgrey;
+}
